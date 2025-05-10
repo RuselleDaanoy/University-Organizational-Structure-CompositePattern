@@ -27,7 +27,7 @@ This activity implements a university organizational structure for **New Era Uni
 
 ## Class Structure
 
-- **UniversityUnit (Interface)**  
+- **AcademicFramework (Interface)**  
   Common interface for all organizational entities (College, Department, Professors, Students).
 
 - **College**  
